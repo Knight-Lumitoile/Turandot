@@ -1,0 +1,4 @@
+# Configuration variables
+config = {
+
+}
