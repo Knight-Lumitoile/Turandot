@@ -1,0 +1,1 @@
+nuitka --onefile --windows-disable-console --windows-icon-from-ico=icon.ico --standalone --plugin-enable=tk-inter main.py
